@@ -38,6 +38,7 @@ Each section displays:
 
 ## 📂 Folder Structure
 
+```plaintext
 📦 swiggy-web/
 ├── IMGES/
 │   ├── veg/           # Images of Veg items
@@ -48,11 +49,12 @@ Each section displays:
 ├── icecream.html      # Ice Cream Page
 └── README.md          # Project Documentation
 
+
 ---
 
 ## 💡 Features
 
-- Simple and intuitive layout  
+- Simple and intuitive layout 
 - Food category segregation for easy navigation  
 - Clean image presentation with price labels  
 - 📱 Mobile-friendly with viewport meta tag  
